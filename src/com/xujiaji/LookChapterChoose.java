@@ -6,6 +6,16 @@ public class LookChapterChoose
 {
     public static void main(String[] args)
     {
-        System.out.println(new Random().nextInt(22));
+        final int[] readChapters = {1, 2, 5, 11};
+        int read = new Random().nextInt(22);
+        for (int i : readChapters)
+        {
+            if (i == read)
+            {
+                main(null);
+                return;
+            }
+        }
+        System.out.println(read);
     }
 }
