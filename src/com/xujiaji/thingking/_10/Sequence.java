@@ -1,4 +1,4 @@
-package com.xujiaji.thingking._5;
+package com.xujiaji.thingking._10;
 
 interface Selector
 {

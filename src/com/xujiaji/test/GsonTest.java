@@ -1,6 +1,6 @@
 package com.xujiaji.test;
 
-import com.google.gson.Gson;
+//import com.google.gson.Gson;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -18,6 +18,6 @@ public class GsonTest
         Sex sex1 = new Sex(1, "男", list);
         Sex sex2 = new Sex(2, "女", list);
         List<Sex> sexList = new ArrayList<>(Arrays.asList(sex1, sex2));
-        System.out.println(new Gson().toJson(sexList));
+//        System.out.println(new Gson().toJson(sexList));
     }
 }
