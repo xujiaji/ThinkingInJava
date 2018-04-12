@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ecd78c3-6939-4130-a4b5-c1ef09e67951" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/A.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/HiddenC.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/HiddenImplementation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/InnerImplementation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/InterfaceViolation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/ModifyingPrivateFields.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder3.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,139 +17,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Robot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/Robot.java">
+      <file leaf-file-name="Holder1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NullRobot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/NullRobot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="220">
+              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#859#860#0" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DynamicProxyHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/DynamicProxyHandler.java">
+      <file leaf-file-name="Holder2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="45" column="36" lean-forward="false" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="396">
+              <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InterfaceViolation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/InterfaceViolation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HiddenC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/HiddenC.java">
+      <file leaf-file-name="Holder3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HiddenImplementation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/HiddenImplementation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InnerImplementation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/InnerImplementation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-              <folding>
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModifyingPrivateFields.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/ModifyingPrivateFields.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-              <folding>
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -188,9 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_10/Controller.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_10/GreenhouseControls.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_10/_8_2/GreenhouseControls.java" />
         <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_10/_8_2/Controller.java" />
         <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_10/_8_2/GreenhouseController.java" />
         <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_10/_8_2/Event.java" />
@@ -239,6 +138,9 @@
         <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/HiddenC.java" />
         <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/InnerImplementation.java" />
         <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/ModifyingPrivateFields.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder1.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder2.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder3.java" />
       </list>
     </option>
   </component>
@@ -249,8 +151,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="478" />
-    <option name="y" value="39" />
+    <option name="x" value="425" />
+    <option name="y" value="62" />
     <option name="width" value="1391" />
     <option name="height" value="951" />
   </component>
@@ -270,9 +172,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,58 +229,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
               <item name="thingking" type="462c0819:PsiDirectoryNode" />
-              <item name="_14" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicProxyHandler.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
-              <item name="thingking" type="462c0819:PsiDirectoryNode" />
-              <item name="_14" type="462c0819:PsiDirectoryNode" />
-              <item name="HiddenC.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
-              <item name="thingking" type="462c0819:PsiDirectoryNode" />
-              <item name="_14" type="462c0819:PsiDirectoryNode" />
-              <item name="InnerImplementation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
-              <item name="thingking" type="462c0819:PsiDirectoryNode" />
-              <item name="_14" type="462c0819:PsiDirectoryNode" />
-              <item name="InterfaceViolation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
-              <item name="thingking" type="462c0819:PsiDirectoryNode" />
-              <item name="_14" type="462c0819:PsiDirectoryNode" />
-              <item name="ModifyingPrivateFields.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
-              <item name="thingking" type="462c0819:PsiDirectoryNode" />
-              <item name="_14" type="462c0819:PsiDirectoryNode" />
-              <item name="NullRobot.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="_15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -420,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ModifyingPrivateFields">
+  <component name="RunManager" selected="Application.Holder2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -436,6 +292,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._14.HiddenImplementation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava" />
+      <envs />
+    </configuration>
+    <configuration name="Holder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xujiaji.thingking._15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._15.Holder2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -493,25 +368,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._14.ModifyingPrivateFields" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava" />
-      <envs />
-    </configuration>
-    <configuration name="NullRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.xujiaji.thingking._14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._14.NullRobot" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -896,19 +752,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NullRobot" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InterfaceViolation" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HiddenImplementation" />
-      <item index="3" class="java.lang.String" itemvalue="Application.InnerImplementation" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ModifyingPrivateFields" />
+      <item index="0" class="java.lang.String" itemvalue="Application.InterfaceViolation" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HiddenImplementation" />
+      <item index="2" class="java.lang.String" itemvalue="Application.InnerImplementation" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ModifyingPrivateFields" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Holder2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ModifyingPrivateFields" />
-        <item index="1" class="java.lang.String" itemvalue="Application.InnerImplementation" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HiddenImplementation" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InterfaceViolation" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NullRobot" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Holder2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ModifyingPrivateFields" />
+        <item index="2" class="java.lang.String" itemvalue="Application.InnerImplementation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HiddenImplementation" />
+        <item index="4" class="java.lang.String" itemvalue="Application.InterfaceViolation" />
       </list>
     </recent_temporary>
   </component>
@@ -944,7 +800,10 @@
       <workItem from="1521768640716" duration="6972000" />
       <workItem from="1521863066591" duration="6596000" />
       <workItem from="1522500832348" duration="3840000" />
-      <workItem from="1522553252414" duration="1341000" />
+      <workItem from="1522553252414" duration="4949000" />
+      <workItem from="1522738107018" duration="7000" />
+      <workItem from="1523109759652" duration="1388000" />
+      <workItem from="1523546507985" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="Collection和Iterator">
       <created>1516698160193</created>
@@ -1065,15 +924,21 @@
       <option name="project" value="LOCAL" />
       <updated>1521892913247</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="8.1、模拟对象与桩；9、接口与类型信息；10、总结">
+      <created>1522556308227</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1522556308227</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67741000" />
+    <option name="totallyTimeSpent" value="72771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="478" y="39" width="1391" height="951" extended-state="0" />
-    <editor active="true" />
+    <frame x="425" y="62" width="1391" height="951" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1082,13 +947,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65970516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31104434" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32531932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298272" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1157,7 +1022,8 @@
     <MESSAGE value="3.3、递归计数;4、注册工厂;5、instanceof与Class的等价性" />
     <MESSAGE value="6、反射：运行时的类信息;6.1、类方法提取器;7、动态代理" />
     <MESSAGE value="8、空对象" />
-    <option name="LAST_COMMIT_MESSAGE" value="8、空对象" />
+    <MESSAGE value="8.1、模拟对象与桩；9、接口与类型信息；10、总结" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.1、模拟对象与桩；9、接口与类型信息；10、总结" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1171,27 +1037,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_10/DotNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/LookChapterChoose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/ThinkingInJava/com/xujiaji/thingking/_14/Gum.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/Gum.java" />
     <entry file="file://$PROJECT_DIR$/src/typeinfo/toys/ToyTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1393,7 +1238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="483" column="18" lean-forward="false" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1450,7 +1294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="45" column="36" lean-forward="false" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1458,7 +1301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1466,17 +1308,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1484,7 +1315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1492,7 +1322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1500,7 +1329,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="2124" column="62" lean-forward="false" selection-start-line="2124" selection-start-column="62" selection-end-line="2124" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1508,50 +1336,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/ModifyingPrivateFields.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="616">
           <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/InnerImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
+        <state relative-caret-position="770">
           <caret line="46" column="20" lean-forward="false" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1559,14 +1357,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/HiddenImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding />
         </state>
       </provider>
