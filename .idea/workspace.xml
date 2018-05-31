@@ -2,76 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ecd78c3-6939-4130-a4b5-c1ef09e67951" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/Fill2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Apply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ArrayMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ArrayOfGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ArrayOfGenericReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/BaseGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/BasicBounds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/BasicGeneratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CRGWithBasicHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CaptureConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CheckList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ComparablePet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CompilerIntelligence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ContainerMethodDifferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CountedObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CovariantArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CovariantReturnTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CreatorGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Decoration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/DynamicProxyMixin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ErasedTypeEquivalence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ErasureAndInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ExplicitTypeSpecification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/FactoryConstraint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Fill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/FilledListMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Functional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Generators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericArrayWithTypeToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericWriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericsAndCovariance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericsAndReturnTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/InheritBounds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/InstantiateGenericType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/LatentReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ListMarker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ListOfGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/LostInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/NeedCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/PlainGenericInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/PrimitiveGenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SelfBounding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SimpleHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SuperTypeWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Teller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ThrowGenericException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Tuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/TupleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/UnboundedWildcards1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Unconstrained.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/UseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Wildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/coffee/Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/coffee/Breve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/coffee/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/coffee/CoffeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/coffee/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/coffee/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/coffee/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apt_mirror_api_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javassist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/CommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/ModifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/PasswordUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/Testable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/UseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/UseCaseTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/ExtractInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/InterfaceExtractorProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/InterfaceExtractorProcessorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/Constraints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/DBTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/SQLInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/SQLString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/TableCreationProcessorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/TableCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestObjectCleanup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestObjectCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExternalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/StackL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/StackLStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/TupleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/TupleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkingInJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThinkingInJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/mindview/atunit/AtUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/mindview/atunit/AtUnit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,40 +50,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LatentReflection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/LatentReflection.java">
+      <file leaf-file-name="AtUnitExample4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            <state relative-caret-position="1350">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functional.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Functional.java">
+      <file leaf-file-name="AtUnit.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="218" column="19" lean-forward="true" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
+            <state relative-caret-position="826">
+              <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2029#2030#0" expanded="true" />
-                <element signature="e#2065#2066#0" expanded="true" />
-                <element signature="e#2250#2251#0" expanded="true" />
-                <element signature="e#2286#2287#0" expanded="true" />
-                <element signature="e#2455#2456#0" expanded="true" />
-                <element signature="e#2494#2495#0" expanded="true" />
-                <element signature="e#2663#2664#0" expanded="true" />
-                <element signature="e#2702#2703#0" expanded="true" />
-                <element signature="e#2871#2872#0" expanded="true" />
-                <element signature="e#2938#2939#0" expanded="true" />
-                <element signature="e#3109#3110#0" expanded="true" />
-                <element signature="e#3147#3148#0" expanded="true" />
-                <element signature="e#3315#3316#0" expanded="true" />
-                <element signature="e#3357#3358#0" expanded="true" />
-                <element signature="e#3419#3420#0" expanded="true" />
-                <element signature="e#3472#3473#0" expanded="true" />
-                <element signature="e#3783#3784#0" expanded="true" />
-                <element signature="e#3817#3818#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassNameFinder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/ClassNameFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProcessFiles.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/mindview/util/ProcessFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtUnitRemover.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitRemover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-162">
+              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtUnitExample5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,6 +119,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -137,6 +129,12 @@
       <find>)&quot;)</find>
       <find>Calee1</find>
       <find>getData</find>
+      <find>defineClass</find>
+      <find>MAX_ARRAY_SIZE</find>
+      <find>getDeclaredMethod</find>
+      <find>getMethod</find>
+      <find>getProxyClass</find>
+      <find>modifier</find>
     </findStrings>
     <replaceStrings>
       <replace>) &quot;)</replace>
@@ -149,57 +147,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Store.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ErasedTypeEquivalence.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/LostInformation.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ErasureAndInheritance.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ArrayMaker.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ListMarker.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/FilledListMaker.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SimpleHolder.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericHolder.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/InstantiateGenericType.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/FactoryConstraint.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CreatorGeneric.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ListOfGenerics.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ArrayOfGenericReference.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ArrayOfGeneric.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericArray2.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericArray.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericArrayWithTypeToken.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/BasicBounds.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/InheritBounds.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CovariantArrays.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CompilerIntelligence.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SuperTypeWildcards.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericsAndCovariance.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericReading.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericWriting.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/UnboundedWildcards1.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Wildcards.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CaptureConversion.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/PrimitiveGenericTest.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Payable.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/NeedCasting.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/UseList.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CRGWithBasicHolder.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Unconstrained.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ComparablePet.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SelfBounding.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CovariantReturnTypes.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericsAndReturnTypes.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/PlainGenericInheritance.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CheckList.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ThrowGenericException.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Decoration.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_14/DynamicProxyHandler.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/DynamicProxyMixin.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/LatentReflection.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Apply.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Fill.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/Fill2.java" />
-        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Functional.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/FileSystemClassloader.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/FileSystemClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/ClassInfoDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/SimpleClassViewer.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/SomeClass.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/CommandUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/BeanUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/TestField.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/NewArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/NewArrayDemo2.java" />
+        <option value="D:/Downloads/插件化开发/apkplugindemo/src/main/java/com/example/apkplugindemo/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/Testable.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/UseCase.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/PasswordUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/UseCaseTracker.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/DBTable.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/Constraints.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/SQLInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/SQLString.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/DBTable.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/Member.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/TableCreator.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/ExtractInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/Multiplier.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/InterfaceExtractorProcessor.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/InterfaceExtractorProcessorFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/TableCreationProcessorFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/CommandTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitExample.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitExternalTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitExample2.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/HashSetTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AuUnitExample3.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitExample3.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitExample4.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitExample5.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/StackL.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/StackLStringTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestObjectCreate.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestObjectCleanup.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestProperty.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/StackLStringTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/ModifierTest.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample2.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnit.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitRemover.java" />
+        <option value="$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample5.java" />
       </list>
     </option>
   </component>
@@ -211,7 +209,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1928" />
-    <option name="height" value="1040" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -219,7 +217,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,6 +229,79 @@
             <path>
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
+              <item name="thingking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
+              <item name="thingking" type="462c0819:PsiDirectoryNode" />
+              <item name="_20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
+              <item name="thingking" type="462c0819:PsiDirectoryNode" />
+              <item name="_20" type="462c0819:PsiDirectoryNode" />
+              <item name="unit_example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,24 +323,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
               <item name="thingking" type="462c0819:PsiDirectoryNode" />
-              <item name="_15" type="462c0819:PsiDirectoryNode" />
+              <item name="_20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
+              <item name="thingking" type="462c0819:PsiDirectoryNode" />
+              <item name="_20" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xujiaji" type="462c0819:PsiDirectoryNode" />
+              <item name="thingking" type="462c0819:PsiDirectoryNode" />
+              <item name="_20" type="462c0819:PsiDirectoryNode" />
+              <item name="unit_example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="Func&#9;FILE&#9;file://E:/JavaProjects/ThinkingInJava/src/com/xujiaji/thingking/_15/Functional.java&#10;Fill&#9;PSI&#9;JAVA://generics.Fill&#10;Proxy&#9;FILE&#9;file://E:/JavaProjects/ThinkingInJava/src/com/xujiaji/thingking/_14/DynamicProxyHandler.java&#10;Stack&#9;PSI&#9;JAVA://com.xujiaji.thingking._11.StackTest" />
+    <property name="SearchEverywhereHistoryKey" value="Node&#9;PSI&#9;JAVA://com.xujiaji.thingking._15.LinkedStack.Node&#10;Stack&#9;PSI&#9;JAVA://net.mindview.util.Stack&#10;AtUnit&#9;FILE&#9;file://E:/JavaProjects/ThinkingInJava/src/net/mindview/atunit/AtUnit.java&#10;AtUnitExample&#9;FILE&#9;file://E:/JavaProjects/ThinkingInJava/src/com/xujiaji/thingking/_20/unit/AtUnitExample.java&#10;InterfaceEx&#9;FILE&#9;file://E:/JavaProjects/ThinkingInJava/src/com/xujiaji/thingking/_20/apt/InterfaceExtractorProcessor.java&#10;Proxy&#9;FILE&#9;file://E:/JavaProjects/ThinkingInJava/src/com/xujiaji/thingking/_14/DynamicProxyHandler.java&#10;Handle&#9;FILE&#9;file://E:/JavaProjects/ThinkingInJava/src/com/xujiaji/thingking/_14/DynamicProxyHandler.java&#10;Func&#9;FILE&#9;file://E:/JavaProjects/ThinkingInJava/src/com/xujiaji/thingking/_15/Functional.java&#10;Fill&#9;PSI&#9;JAVA://generics.Fill" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Downloads/Classloader" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -276,10 +365,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProjects\ThinkingInJava\lib" />
       <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/src/com/xujiaji/thingking/_5" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xujiaji.thingking._20.unit" />
       <recent name="com.xujiaji.thingking._15" />
       <recent name="com.xujiaji.thingking" />
     </key>
@@ -299,61 +390,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Functional">
+  <component name="RunManager" selected="Application.AtUnitRemover">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ApplyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._15.ApplyTest" />
+    <configuration name="AtUnit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._20.unit.AtUnit" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xujiaji.thingking._15.*" />
+          <option name="PATTERN" value="com.xujiaji.thingking._20.unit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Fill2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking.Fill2Test" />
+    <configuration name="AtUnitExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._20.unit_example.AtUnitExample2" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xujiaji.thingking.*" />
+          <option name="PATTERN" value="com.xujiaji.thingking._20.unit_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._15.Functional" />
+    <configuration name="AtUnitExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._20.unit_example.AtUnitExample5" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xujiaji.thingking._15.*" />
+          <option name="PATTERN" value="com.xujiaji.thingking._20.unit_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LatentReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._15.LatentReflection" />
+    <configuration name="AtUnitRemover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._20.unit.AtUnitRemover" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xujiaji.thingking._15.*" />
+          <option name="PATTERN" value="com.xujiaji.thingking._20.unit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SimpleDynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._14.SimpleDynamicProxy" />
+    <configuration name="ModifierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xujiaji.thingking._20.ModifierTest" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xujiaji.thingking._14.*" />
+          <option name="PATTERN" value="com.xujiaji.thingking._20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -711,19 +802,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleDynamicProxy" />
-      <item itemvalue="Application.LatentReflection" />
-      <item itemvalue="Application.ApplyTest" />
-      <item itemvalue="Application.Fill2Test" />
-      <item itemvalue="Application.Functional" />
+      <item itemvalue="Application.AtUnitExample5" />
+      <item itemvalue="Application.ModifierTest" />
+      <item itemvalue="Application.AtUnitExample2" />
+      <item itemvalue="Application.AtUnit" />
+      <item itemvalue="Application.AtUnitRemover" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Functional" />
-        <item itemvalue="Application.Fill2Test" />
-        <item itemvalue="Application.ApplyTest" />
-        <item itemvalue="Application.LatentReflection" />
-        <item itemvalue="Application.SimpleDynamicProxy" />
+        <item itemvalue="Application.AtUnitRemover" />
+        <item itemvalue="Application.AtUnitExample5" />
+        <item itemvalue="Application.AtUnit" />
+        <item itemvalue="Application.AtUnitExample2" />
+        <item itemvalue="Application.ModifierTest" />
       </list>
     </recent_temporary>
   </component>
@@ -884,35 +975,58 @@
       <option name="project" value="LOCAL" />
       <updated>1523599811785</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="泛型学习 END">
+      <created>1526433932294</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1526433932294</updated>
+    </task>
+    <task id="LOCAL-00020" summary="测试类加载">
+      <created>1526522030199</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1526522030199</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="67741000" />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1928" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="1928" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32606325" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49946466" weight="0.32488987" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005353" side_tool="true" weight="0.2863485" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19755827" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32841328" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.65970516" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946466" weight="0.3160793" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32741398" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31409544" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3035332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22162741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28817734" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946466" weight="0.2863485" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -922,7 +1036,7 @@
       <window_info anchor="right" id="Properties" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32799014" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3263041" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -977,12 +1091,14 @@
     <MESSAGE value="6、反射：运行时的类信息;6.1、类方法提取器;7、动态代理" />
     <MESSAGE value="8、空对象" />
     <MESSAGE value="2.1、一个元组类库;2.2、一个堆栈类;2.3、RandomList" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.1、一个元组类库;2.2、一个堆栈类;2.3、RandomList" />
+    <MESSAGE value="泛型学习 END" />
+    <MESSAGE value="测试类加载" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试类加载" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -990,378 +1106,380 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/BasicBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/InheritBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CovariantArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-97">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SuperTypeWildcards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CompilerIntelligence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericsAndCovariance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/UnboundedWildcards1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Holder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/ExtractInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericReading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericWriting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/CountingGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/RandomGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/PrimitiveGenericTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Payable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/UseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/NeedCasting.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/InterfaceExtractorProcessorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Unconstrained.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/DBTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="54">
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CaptureConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Wildcards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ComparablePet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SelfBounded.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CRGWithBasicHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/SelfBounding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CovariantReturnTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/GenericsAndReturnTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/PlainGenericInheritance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/CheckList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/ThrowGenericException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Decoration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/SimpleDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/SimpleProxyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Documents/WeChat Files/xujiajinull/Files/SignUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Documents/WeChat Files/xujiajinull/Files/OssUpload1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="150" column="29" selection-start-line="150" selection-start-column="12" selection-end-line="150" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/DynamicProxyMixin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="43" column="52" lean-forward="true" selection-start-line="43" selection-start-column="52" selection-end-line="43" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/TwoTuple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_14/DynamicProxyHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/reflect/Method.java">
+    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+          <caret line="4300" column="35" selection-start-line="4300" selection-start-column="35" selection-end-line="4300" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/Iterable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/apt/InterfaceExtractorProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="167">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics/SimpleQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/sql/TableCreationProcessorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ThinkingInJava/com/xujiaji/thingking/_20/CommandTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/CommandTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics/Fill.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/test/classloadertest/NewArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/AtUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1985">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/OSExecute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/Generator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/HashSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="468">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/math/BigDecimal.java">
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/TestObjectCreate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="3309" column="49" lean-forward="true" selection-start-line="3309" selection-start-column="49" selection-end-line="3309" selection-end-column="49" />
+        <state relative-caret-position="108">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/PasswordUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/UseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/StackL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/UseCaseTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="31" column="53" lean-forward="true" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestObjectCleanup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestObjectCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
-            <element signature="e#139900#139901#0" expanded="true" />
-            <element signature="e#139961#139962#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/Fill2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/TestProperty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="82" column="22" lean-forward="true" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        <state relative-caret-position="108">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Fill.java">
+    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="291">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Apply.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/LatentReflection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/math/MathContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/Functional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="218" column="19" lean-forward="true" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
+        <state relative-caret-position="378">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2029#2030#0" expanded="true" />
-            <element signature="e#2065#2066#0" expanded="true" />
-            <element signature="e#2250#2251#0" expanded="true" />
-            <element signature="e#2286#2287#0" expanded="true" />
-            <element signature="e#2455#2456#0" expanded="true" />
-            <element signature="e#2494#2495#0" expanded="true" />
-            <element signature="e#2663#2664#0" expanded="true" />
-            <element signature="e#2702#2703#0" expanded="true" />
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2938#2939#0" expanded="true" />
-            <element signature="e#3109#3110#0" expanded="true" />
-            <element signature="e#3147#3148#0" expanded="true" />
-            <element signature="e#3315#3316#0" expanded="true" />
-            <element signature="e#3357#3358#0" expanded="true" />
-            <element signature="e#3419#3420#0" expanded="true" />
-            <element signature="e#3472#3473#0" expanded="true" />
-            <element signature="e#3783#3784#0" expanded="true" />
-            <element signature="e#3817#3818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/StackLStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExternalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="225" selection-start-line="19" selection-start-column="225" selection-end-line="19" selection-end-column="225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="956" column="22" selection-start-line="956" selection-start-column="22" selection-end-line="956" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/reflect/Modifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="266" column="28" selection-start-line="266" selection-start-column="28" selection-end-line="266" selection-end-column="28" />
+          <folding>
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6068">
+          <caret line="733" column="16" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_15/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/ModifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/Hex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/BinaryFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_162/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/ClassNameFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javassist-3.12.1.GA.jar!/javassist/CtBehavior.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javassist-3.12.1.GA.jar!/javassist/CtMember.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javassist-3.12.1.GA.jar!/javassist/CtMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javassist-3.12.1.GA.jar!/javassist/bytecode/AnnotationsAttribute.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javassist-3.12.1.GA.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javassist.jar!/javassist/ClassPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/ProcessFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ThinkingInJava/com/xujiaji/thingking/_20/unit/AtUnitExample.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit_example/AtUnitExample5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ThinkingInJava/com/xujiaji/thingking/_20/unit_example/AtUnitExample5.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnitRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xujiaji/thingking/_20/unit/AtUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="826">
+          <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

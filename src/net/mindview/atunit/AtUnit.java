@@ -1,5 +1,5 @@
 //: net/mindview/atunit/AtUnit.java
-// An annotation-based unit-test framework.
+// An annotation-based unit_example-test framework.
 // {RunByHand}
 package net.mindview.atunit;
 import java.lang.reflect.*;
