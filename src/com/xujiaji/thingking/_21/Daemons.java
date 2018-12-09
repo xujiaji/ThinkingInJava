@@ -13,6 +13,7 @@ class Daemon implements Runnable
         for (int i = 0; i < t.length; i++)
         {
             t[i] = new Thread(new DaemonSpawn());
+            t[i].setDaemon(true);
             t[i].start();
             printnb("DaemonSpawn " + i + " started, ");
         }
@@ -20,10 +21,17 @@ class Daemon implements Runnable
         {
             printnb("t[" + i + "].isDaemon() = " + t[i].isDaemon() + ", ");
         }
-        while (true)
+        try
         {
-            Thread.yield();
+            TimeUnit.MILLISECONDS.sleep(100);
+        } catch (InterruptedException e)
+        {
+            e.printStackTrace();
         }
+//        while (true)
+//        {
+//            Thread.yield();
+//        }
     }
 }
 
@@ -33,6 +41,7 @@ class DaemonSpawn implements Runnable {
     public void run()
     {
         while (true) {
+            print("sdfas");
             Thread.yield();
         }
     }
@@ -43,7 +52,7 @@ public class Daemons
     public static void main(String[] args) throws InterruptedException
     {
         Thread d = new Thread(new Daemon());
-        d.setDaemon(true);
+//        d.setDaemon(true);
         d.start();
         printnb("d.isDamon() = " + d.isDaemon() + ", ");
         TimeUnit.SECONDS.sleep(1);

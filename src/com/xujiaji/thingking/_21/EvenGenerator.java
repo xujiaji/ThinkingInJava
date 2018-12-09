@@ -10,7 +10,7 @@ public class EvenGenerator extends IntGenerator
     }
 
     @Override
-    public synchronized int next()
+    public int next()
     {
         ++ currentEvenValue;
         Thread.yield();

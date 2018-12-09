@@ -46,10 +46,10 @@ public class CaptureUncaughtException
 {
     public static void main(String[] args)
     {
-//        ExecutorService exec = Executors.newCachedThreadPool(new HandlerThreadFactory());
+        ExecutorService exec = Executors.newCachedThreadPool(new HandlerThreadFactory());
+        exec.execute(new ExceptionThread2());
+//        Thread.setDefaultUncaughtExceptionHandler(new MyUncaughtExceptionHandler());
+//        ExecutorService exec = Executors.newCachedThreadPool();
 //        exec.execute(new ExceptionThread2());
-        Thread.setDefaultUncaughtExceptionHandler(new MyUncaughtExceptionHandler());
-        ExecutorService exec = Executors.newCachedThreadPool();
-        exec.execute(new ExceptionThread());
     }
 }
